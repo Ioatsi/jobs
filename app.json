@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobs",
+    "extra": {
+      "eas": {
+        "projectId": "b3e324f8-37a0-49dd-8a79-c94095d44079"
+      }
+    },
+    "android": {
+      "package": "com.ioatsi.jobs"
+    }
   }
 }
